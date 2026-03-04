@@ -20,7 +20,7 @@ A simple and responsive QR Code Generator built using HTML, CSS and JavaScript.
 
 
 ## 🌐 Live Demo
-(Add GitHub Pages link here)
+ https://aryan-1218.github.io/qr-code-generator/
 
 ---
 
